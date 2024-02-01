@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Data Science and Business Analytics Projects:</h2>
 
-- <b>Python</b>
-  - [Food Hub Case Study](https://github.com/lynchr615/FoodHubCaseStudy/blob/main/PYF_Project_LearnerNotebook_FullCode.ipynb)
-  - Business Statistics Case Study
+- <b>UT Austin Case Studies</b>
+  - [Food Hub - Meal Delivery Optimization](https://github.com/lynchr615/FoodHubCaseStudy/blob/main/PYF_Project_LearnerNotebook_FullCode.ipynb)
+  - [E-News Express - Statistical Analysis](https://github.com/lynchr615/FoodHubCaseStudy/blob/main/PYF_Project_LearnerNotebook_FullCode.ipynb)
 
 <h2> Certifications</h2>
 
