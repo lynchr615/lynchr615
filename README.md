@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science and Business Analytics Projects:</h2>
 
 - <b>UT Austin Case Studies</b>
-  - [Food Hub - Meal Delivery Optimization](https://github.com/lynchr615/FoodHubCaseStudy/blob/main/PYF_Project_LearnerNotebook_FullCode.ipynb)
+  - [Food Hub - Meal Delivery Optimization](https://github.com/lynchr615/FoodHubCaseStudy)
   - [E-News Express - A/B Test Statistical Analysis](https://github.com/lynchr615/E-NewsExpressCaseStudy)
 
 <h2> Certifications</h2>
