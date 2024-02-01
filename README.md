@@ -10,19 +10,7 @@
 
 - Post-Graduate Certificate, Data Science and Business Analytics <br/>The University of Texas at Austin<br>Oct 2023 - May 2024
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[linkedin]: www.linkedin.com/in/ryan-lynch-b0b46232
-
-<!--
-**lynchr615/lynchr615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h2> 🤳 About me:</h2>
 
 - 🔭 I’m currently working on my certificate in Data Science and Business Analytics at UT Austin
 - 🌱 I’m currently learning SQL, Tableau, Python, course-building and every data science subject I can get my hands on.
