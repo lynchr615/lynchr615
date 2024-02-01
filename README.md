@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science and Business Analytics Projects:</h2>
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Food Hub Case Study (Data Analysis)]([https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://github.com/lynchr615/FoodHubCaseStudy/blob/main/PYF_Project_LearnerNotebook_FullCode.ipynb))
   - Business Statistics Case Study
 
 <h2> Certifications</h2>
