@@ -20,7 +20,7 @@
 
 <h2> Certifications</h2>
 
-- Post-Graduate Certificate, Data Science and Business Analytics <br/>The University of Texas at Austin<br></br/>Oct 2023 - May 2024
+- Post-Graduate Certificate, Data Science and Business Analytics <br/>The University of Texas at Austin<br>Oct 2023 - May 2024
 
 <h2> 🤳 Connect with me:</h2>
 
