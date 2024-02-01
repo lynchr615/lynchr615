@@ -4,7 +4,7 @@
 
 - <b>UT Austin Case Studies</b>
   - [Food Hub - Meal Delivery Optimization](https://github.com/lynchr615/FoodHubCaseStudy/blob/main/PYF_Project_LearnerNotebook_FullCode.ipynb)
-  - [E-News Express - A/B Test Statistical Analysis](https://github.com/lynchr615/FoodHubCaseStudy/blob/main/PYF_Project_LearnerNotebook_FullCode.ipynb)
+  - [E-News Express - A/B Test Statistical Analysis]([https://github.com/lynchr615/FoodHubCaseStudy/blob/main/PYF_Project_LearnerNotebook_FullCode.ipynb](https://github.com/lynchr615/E-NewsExpressCaseStudy/blob/main/ENews_Express_Learner_Notebook.ipynb))
 
 <h2> Certifications</h2>
 
