@@ -19,4 +19,3 @@
 - 💬 Ask me about my experience homeschooling my four kids.
 - 📫 How to reach me: Message me on LinkedIn or email me at lynch_r@me.com
 - ⚡ Fun fact: I ran my first marathon solo in May 2020 even after the race was cancelled (no way I was going to waste all that training).
--->
