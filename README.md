@@ -20,7 +20,7 @@
 
 <h2> Certifications</h2>
 
-- Post-Graduate Certificate<br/>Data Science and Business Analytics <br/>The University of Texas at Austin
+- Post-Graduate Certificate, Data Science and Business Analytics <br/>The University of Texas at Austin</br/>May 2024
 
 <h2> 🤳 Connect with me:</h2>
 
