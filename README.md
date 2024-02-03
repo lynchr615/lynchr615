@@ -12,7 +12,7 @@
 
 <h2> 🤳 About me:</h2>
 
-- 🔭 I’m currently working on my certificate in Data Science and Business Analytics at UT Austin
+- 🔭 I’m currently working on my certificate in Data Science and Business Analytics at UT Austin.
 - 🌱 I’m currently learning SQL, Tableau, Python, course-building and every data science subject I can get my hands on.
 - 👯 I’m looking to collaborate on solutions for ⬆️ healthcare costs with ⬇️ outcomes, the "Nones", and anything to do with making everyday folks' lives better.
 - 🤔 I’m looking for help on how to run a sub-20:00 5k without getting injured.
