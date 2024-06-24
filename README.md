@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan! <br/><a href="https://www.linkedin.com/in/ryan-lynch-b0b46232/">Entrepreneur and Burgeoning Data Analyst</a></a></h1>
+<h1>Hi, I'm Ryan! <br/><a href="https://www.linkedin.com/in/ryan-lynch-b0b46232/">Entrepreneur and Business Analyst</a></a></h1>
 
 <h2>👨‍💻 Data Science and Business Analytics Projects:</h2>
 
